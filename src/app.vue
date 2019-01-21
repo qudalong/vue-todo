@@ -8,7 +8,7 @@ export default {
     return {
       text:{
         type:String,
-        value:'12345'
+        value:'123456'
       }
     }
   }
