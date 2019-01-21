@@ -1,0 +1,19 @@
+{
+  "name": "vue-todo",
+  "version": "1.0.0",
+  "description": "基于webpack的vue精悍小项目 嘻嘻 哈哈",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qudalong/vue-todo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qudalong/vue-todo/issues"
+  },
+  "homepage": "https://github.com/qudalong/vue-todo#readme"
+}
